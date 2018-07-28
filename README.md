@@ -1,4 +1,6 @@
-# Avatar Network White Paper
+# Avatar White Paper
+- [Chinese](Avatar_Network_WhitePaper_CN.pdf)
+- [English](Avatar_Network_WhitePaper_EN.pdf)
 
 # Official Website
 [https://avatar-network.io](https://avatar-network.io)
